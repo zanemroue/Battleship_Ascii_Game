@@ -15,3 +15,12 @@ As an additional challenge, players must answer a math problem correctly in orde
 
 ## Score Tracking
 As the game progresses, players' scores are tracked and displayed on the screen. Players earn points for sinking their opponent's ships and for correctly answering math problems. The game keeps track of the total number of hits and misses for each player, as well as their current score.
+
+
+Some of the cool features of this game include:
+
+- The ability to play against an AI opponent
+- A score counter that keeps track of the number of hits each player has made
+- A list of previous hits and misses to help players strategize their next moves
+- A "question" feature that asks players a math problem before their turn, which they must solve correctly in order to proceed
+Overall, this game provides a fun and challenging way for players to test their naval warfare skills.
